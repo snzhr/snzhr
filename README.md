@@ -50,19 +50,3 @@ I’m a passionate software engineer with **5+ years** of experience building mo
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=snzhr&show_icons=true&theme=default&hide_title=false&hide=contribs&count_private=true&include_all_commits=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snzhr&theme=default" width="48%" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snzhr&layout=compact&langs_count=8&hide=css,html&theme=default" width="48%" />
-
-</div>
-
----
