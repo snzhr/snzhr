@@ -17,13 +17,11 @@ I’m a passionate software engineer with **5+ years** of experience building mo
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 
----
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white)
 
----
 **Databases & ORM:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -33,19 +31,16 @@ I’m a passionate software engineer with **5+ years** of experience building mo
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat)
 
----
 **DevOps & Cloud:**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat&logo=gitlab)
 
----
 **Testing & Tools:**  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
 ![React Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat&logo=testing-library)
 
----
 **Other Languages & Tools:**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
