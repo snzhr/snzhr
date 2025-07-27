@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Software Engineer with 5+ years of experience building modern web applications. Skilled in front-end and back-end development
+using React, Angular, Node.js, and NestJS. Experienced in creating RESTful and GraphQL APIs, working with SQL and NoSQL
+databases, and using AWS cloud services. Familiar with Agile workflows, automated testing, and team collaboration. Focused on
+writing clean code and building fast, user-friendly interfaces.
 <!--
 **snzhr/snzhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
