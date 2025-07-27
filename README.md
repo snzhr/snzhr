@@ -30,12 +30,3 @@ I’m a passionate software engineer with **5+ years** of experience building mo
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
----
-
-### 💼 Let’s Connect
-
-- 🌐 [Portfolio Website](https://samzh.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanzharzhenishbek/)
-- 📬 sanzhar.zhenishbek@gmail.com
-
-> ⚡ I'm currently looking for remote opportunities (full-time or freelance) — especially in product-focused or mission-driven teams. Open to relocation within Europe or returning to the U.S. if visa allows.
