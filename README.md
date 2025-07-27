@@ -30,21 +30,6 @@ I’m a passionate software engineer with **5+ years** of experience building mo
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
-### 📌 Current Projects
-
-- 🗺️ **[Tamak App](https://github.com/snzhr/tamak-app-backend)** – A full-stack app to help users find local halal food & services.
-- 🧰 **Portfolio Site** – [samzh.dev](https://samzh.dev) built with React, Tailwind, and Next.js.
-
----
-
-### 🌍 Languages
-- Kyrgyz (native)
-- Russian (C2)
-- English (C1)
-- Turkish (C1)
-- Spanish (A2)
-
 ---
 
 ### 💼 Let’s Connect
