@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sanzhar (Sam) Zhenishbek
 
-🚀 Software Engineer | 🧠 Full-Stack Developer | 🌐 Remote-Ready | 🇰🇬 Based in Kyrgyzstan | 🇺🇸 U.S. Educated
+🚀 Software Engineer | 🧠 Full-Stack Developer | 🌐 Remote-Ready | 🇺🇸 U.S. Educated
 
 I’m a passionate software engineer with **5+ years** of experience building modern, scalable web applications — from backend APIs to frontend UIs. I specialize in **TypeScript**, **React**, **NestJS**, and **PostgreSQL**, and I love turning ideas into clean, performant, and user-friendly products.
 
